@@ -1,9 +1,5 @@
 // 로컬 -> 원격저장소 업로드는
-<<<<<<< HEAD
 git push -u 원격저장소주소 올릴로컬브랜치명
-=======
-git push -u 원격저장소주소 올릴로컬브랜치명 22
->>>>>>> 43eb9a8 (a파일 건드려봄)
 
 git remote add 변수명 주소
 git remote add origin 깃주소
