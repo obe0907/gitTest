@@ -8,3 +8,10 @@ git remote add origin 깃주소
 
 git push -u 추가하면 주소를 기억하라는뜻
 앞으로는 git push 만 해도됨
+
+git push 밀어넣기
+git pull 당겨오기
+
+push 하기 전에 pull 먼저해서 원격저장소에서 소스 가져와야함
+
+SVN commit 하기전에 syn 맞추는것과 같음
