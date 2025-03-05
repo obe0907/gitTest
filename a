@@ -14,4 +14,7 @@ git pull 당겨오기
 
 push 하기 전에 pull 먼저해서 원격저장소에서 소스 가져와야함
 
+git clone 주소 // 깃허브에서 소스 가져오기
+clone에서 가져온 소스 push 하려면 원격저장소에 권한설정해줘야함
+
 SVN commit 하기전에 syn 맞추는것과 같음
